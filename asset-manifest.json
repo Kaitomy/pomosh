@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pomosh/static/css/main.7108049a.css",
+    "main.js": "/pomosh/static/js/main.011f384b.js",
+    "static/js/453.83483817.chunk.js": "/pomosh/static/js/453.83483817.chunk.js",
+    "static/media/logo.svg": "/pomosh/static/media/logo.68e293581830aea2e01e513337719a5e.svg",
+    "index.html": "/pomosh/index.html",
+    "main.7108049a.css.map": "/pomosh/static/css/main.7108049a.css.map",
+    "main.011f384b.js.map": "/pomosh/static/js/main.011f384b.js.map",
+    "453.83483817.chunk.js.map": "/pomosh/static/js/453.83483817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7108049a.css",
+    "static/js/main.011f384b.js"
+  ]
+}
